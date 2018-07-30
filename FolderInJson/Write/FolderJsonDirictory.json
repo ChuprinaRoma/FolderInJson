@@ -1,187 +1,527 @@
 {
   "NameFile": "FolderInJson",
-  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson",
+  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson",
   "CreateTimeFile": "30.07.2018 11:20:40",
   "SubDirectry": [
     {
-      "NameFile": "App.config",
-      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\App.config",
-      "CreateTimeFile": "30.07.2018 11:20:56",
+      "NameFile": ".gitattributes",
+      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.gitattributes",
+      "CreateTimeFile": "30.07.2018 18:23:12",
       "SubDirectry": null
     },
     {
-      "NameFile": "FolderInJson.csproj",
-      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\FolderInJson.csproj",
-      "CreateTimeFile": "30.07.2018 11:20:56",
+      "NameFile": ".gitignore",
+      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.gitignore",
+      "CreateTimeFile": "30.07.2018 18:23:12",
       "SubDirectry": null
     },
     {
-      "NameFile": "packages.config",
-      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\packages.config",
-      "CreateTimeFile": "30.07.2018 15:34:33",
+      "NameFile": "FolderInJson.sln",
+      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson.sln",
+      "CreateTimeFile": "30.07.2018 11:20:42",
       "SubDirectry": null
     },
     {
-      "NameFile": "Program.cs",
-      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\Program.cs",
-      "CreateTimeFile": "30.07.2018 11:20:56",
-      "SubDirectry": null
-    },
-    {
-      "NameFile": "bin",
-      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin",
-      "CreateTimeFile": "30.07.2018 16:47:34",
+      "NameFile": ".git",
+      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git",
+      "CreateTimeFile": "30.07.2018 18:23:11",
       "SubDirectry": [
         {
-          "NameFile": "Debug",
-          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug",
-          "CreateTimeFile": "30.07.2018 16:47:34",
+          "NameFile": "COMMIT_EDITMSG",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\COMMIT_EDITMSG",
+          "CreateTimeFile": "30.07.2018 18:23:14",
+          "SubDirectry": null
+        },
+        {
+          "NameFile": "config",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\config",
+          "CreateTimeFile": "30.07.2018 18:25:49",
+          "SubDirectry": null
+        },
+        {
+          "NameFile": "description",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\description",
+          "CreateTimeFile": "30.07.2018 18:23:11",
+          "SubDirectry": null
+        },
+        {
+          "NameFile": "HEAD",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\HEAD",
+          "CreateTimeFile": "30.07.2018 18:23:12",
+          "SubDirectry": null
+        },
+        {
+          "NameFile": "index",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\index",
+          "CreateTimeFile": "30.07.2018 18:23:13",
+          "SubDirectry": null
+        },
+        {
+          "NameFile": "ms-persist.xml",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\ms-persist.xml",
+          "CreateTimeFile": "30.07.2018 18:23:24",
+          "SubDirectry": null
+        },
+        {
+          "NameFile": "hooks",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks",
+          "CreateTimeFile": "30.07.2018 18:23:11",
           "SubDirectry": [
             {
-              "NameFile": "FolderInJson.exe",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\FolderInJson.exe",
-              "CreateTimeFile": "30.07.2018 16:47:48",
+              "NameFile": "applypatch-msg.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\applypatch-msg.sample",
+              "CreateTimeFile": "30.07.2018 18:23:11",
               "SubDirectry": null
             },
             {
-              "NameFile": "FolderInJson.exe.config",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\FolderInJson.exe.config",
-              "CreateTimeFile": "30.07.2018 16:47:48",
+              "NameFile": "commit-msg.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\commit-msg.sample",
+              "CreateTimeFile": "30.07.2018 18:23:12",
               "SubDirectry": null
             },
             {
-              "NameFile": "FolderInJson.pdb",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\FolderInJson.pdb",
-              "CreateTimeFile": "30.07.2018 16:47:48",
+              "NameFile": "fsmonitor-watchman.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\fsmonitor-watchman.sample",
+              "CreateTimeFile": "30.07.2018 18:23:12",
               "SubDirectry": null
             },
             {
-              "NameFile": "Json.dll",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\Json.dll",
-              "CreateTimeFile": "30.07.2018 16:47:48",
+              "NameFile": "post-update.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\post-update.sample",
+              "CreateTimeFile": "30.07.2018 18:23:12",
               "SubDirectry": null
             },
             {
-              "NameFile": "Json.pdb",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\Json.pdb",
-              "CreateTimeFile": "30.07.2018 16:47:48",
+              "NameFile": "pre-applypatch.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\pre-applypatch.sample",
+              "CreateTimeFile": "30.07.2018 18:23:12",
               "SubDirectry": null
             },
             {
-              "NameFile": "Newtonsoft.Json.dll",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\Newtonsoft.Json.dll",
-              "CreateTimeFile": "30.07.2018 16:47:48",
+              "NameFile": "pre-commit.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\pre-commit.sample",
+              "CreateTimeFile": "30.07.2018 18:23:12",
               "SubDirectry": null
             },
             {
-              "NameFile": "Newtonsoft.Json.xml",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\Newtonsoft.Json.xml",
-              "CreateTimeFile": "30.07.2018 16:47:48",
+              "NameFile": "pre-push.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\pre-push.sample",
+              "CreateTimeFile": "30.07.2018 18:23:12",
+              "SubDirectry": null
+            },
+            {
+              "NameFile": "pre-rebase.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\pre-rebase.sample",
+              "CreateTimeFile": "30.07.2018 18:23:12",
+              "SubDirectry": null
+            },
+            {
+              "NameFile": "pre-receive.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\pre-receive.sample",
+              "CreateTimeFile": "30.07.2018 18:23:12",
+              "SubDirectry": null
+            },
+            {
+              "NameFile": "prepare-commit-msg.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\prepare-commit-msg.sample",
+              "CreateTimeFile": "30.07.2018 18:23:12",
+              "SubDirectry": null
+            },
+            {
+              "NameFile": "update.sample",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\hooks\\update.sample",
+              "CreateTimeFile": "30.07.2018 18:23:12",
               "SubDirectry": null
             }
           ]
-        }
-      ]
-    },
-    {
-      "NameFile": "model",
-      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\model",
-      "CreateTimeFile": "30.07.2018 11:23:54",
-      "SubDirectry": [
-        {
-          "NameFile": "ManageJsonFolder.cs",
-          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\model\\ManageJsonFolder.cs",
-          "CreateTimeFile": "30.07.2018 11:26:15",
-          "SubDirectry": null
         },
         {
-          "NameFile": "ModelFolder.cs",
-          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\model\\ModelFolder.cs",
-          "CreateTimeFile": "30.07.2018 11:24:38",
-          "SubDirectry": null
-        },
-        {
-          "NameFile": "Parser.cs",
-          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\model\\Parser.cs",
-          "CreateTimeFile": "30.07.2018 11:34:21",
-          "SubDirectry": null
-        }
-      ]
-    },
-    {
-      "NameFile": "obj",
-      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj",
-      "CreateTimeFile": "30.07.2018 11:20:57",
-      "SubDirectry": [
-        {
-          "NameFile": "Debug",
-          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug",
-          "CreateTimeFile": "30.07.2018 11:20:57",
+          "NameFile": "info",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\info",
+          "CreateTimeFile": "30.07.2018 18:23:12",
           "SubDirectry": [
             {
-              "NameFile": "DesignTimeResolveAssemblyReferencesInput.cache",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\DesignTimeResolveAssemblyReferencesInput.cache",
-              "CreateTimeFile": "30.07.2018 11:21:10",
+              "NameFile": "exclude",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\info\\exclude",
+              "CreateTimeFile": "30.07.2018 18:23:12",
+              "SubDirectry": null
+            }
+          ]
+        },
+        {
+          "NameFile": "logs",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\logs",
+          "CreateTimeFile": "30.07.2018 18:23:14",
+          "SubDirectry": [
+            {
+              "NameFile": "HEAD",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\logs\\HEAD",
+              "CreateTimeFile": "30.07.2018 18:23:14",
               "SubDirectry": null
             },
             {
-              "NameFile": "FolderInJson.csproj.CopyComplete",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.csproj.CopyComplete",
-              "CreateTimeFile": "30.07.2018 15:36:18",
-              "SubDirectry": null
+              "NameFile": "refs",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\logs\\refs",
+              "CreateTimeFile": "30.07.2018 18:23:14",
+              "SubDirectry": [
+                {
+                  "NameFile": "heads",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\logs\\refs\\heads",
+                  "CreateTimeFile": "30.07.2018 18:23:14",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "master",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\logs\\refs\\heads\\master",
+                      "CreateTimeFile": "30.07.2018 18:23:14",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "remotes",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\logs\\refs\\remotes",
+                  "CreateTimeFile": "30.07.2018 18:26:01",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "origin",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\logs\\refs\\remotes\\origin",
+                      "CreateTimeFile": "30.07.2018 18:26:01",
+                      "SubDirectry": [
+                        {
+                          "NameFile": "master",
+                          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\logs\\refs\\remotes\\origin\\master",
+                          "CreateTimeFile": "30.07.2018 18:26:01",
+                          "SubDirectry": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "NameFile": "objects",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects",
+          "CreateTimeFile": "30.07.2018 18:23:12",
+          "SubDirectry": [
+            {
+              "NameFile": "0e",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\0e",
+              "CreateTimeFile": "30.07.2018 18:23:23",
+              "SubDirectry": [
+                {
+                  "NameFile": "43793aab0d35182df174628c6680c83d6b173e",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\0e\\43793aab0d35182df174628c6680c83d6b173e",
+                  "CreateTimeFile": "30.07.2018 18:23:23",
+                  "SubDirectry": null
+                }
+              ]
             },
             {
-              "NameFile": "FolderInJson.csproj.CoreCompileInputs.cache",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.csproj.CoreCompileInputs.cache",
-              "CreateTimeFile": "30.07.2018 11:21:05",
-              "SubDirectry": null
+              "NameFile": "16",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\16",
+              "CreateTimeFile": "30.07.2018 18:23:21",
+              "SubDirectry": [
+                {
+                  "NameFile": "13ccff18cd0cb0da2084b127b7391ec7be7f18",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\16\\13ccff18cd0cb0da2084b127b7391ec7be7f18",
+                  "CreateTimeFile": "30.07.2018 18:23:21",
+                  "SubDirectry": null
+                }
+              ]
             },
             {
-              "NameFile": "FolderInJson.csproj.FileListAbsolute.txt",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.csproj.FileListAbsolute.txt",
-              "CreateTimeFile": "30.07.2018 11:55:32",
-              "SubDirectry": null
+              "NameFile": "1f",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\1f",
+              "CreateTimeFile": "30.07.2018 18:23:13",
+              "SubDirectry": [
+                {
+                  "NameFile": "f0c423042b46cb1d617b81efb715defbe8054d",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\1f\\f0c423042b46cb1d617b81efb715defbe8054d",
+                  "CreateTimeFile": "30.07.2018 18:23:13",
+                  "SubDirectry": null
+                }
+              ]
             },
             {
-              "NameFile": "FolderInJson.csprojAssemblyReference.cache",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.csprojAssemblyReference.cache",
-              "CreateTimeFile": "30.07.2018 14:22:51",
-              "SubDirectry": null
+              "NameFile": "24",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\24",
+              "CreateTimeFile": "30.07.2018 18:23:21",
+              "SubDirectry": [
+                {
+                  "NameFile": "4f2661c725b453aa118a699250c7d396cc9008",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\24\\4f2661c725b453aa118a699250c7d396cc9008",
+                  "CreateTimeFile": "30.07.2018 18:23:21",
+                  "SubDirectry": null
+                }
+              ]
             },
             {
-              "NameFile": "FolderInJson.exe",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.exe",
-              "CreateTimeFile": "30.07.2018 11:55:30",
-              "SubDirectry": null
+              "NameFile": "3c",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\3c",
+              "CreateTimeFile": "30.07.2018 18:23:13",
+              "SubDirectry": [
+                {
+                  "NameFile": "4efe206bd0e7230ad0ae8396a3c883c8207906",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\3c\\4efe206bd0e7230ad0ae8396a3c883c8207906",
+                  "CreateTimeFile": "30.07.2018 18:23:13",
+                  "SubDirectry": null
+                }
+              ]
             },
             {
-              "NameFile": "FolderInJson.pdb",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.pdb",
-              "CreateTimeFile": "30.07.2018 11:55:31",
-              "SubDirectry": null
+              "NameFile": "3e",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\3e",
+              "CreateTimeFile": "30.07.2018 18:23:22",
+              "SubDirectry": [
+                {
+                  "NameFile": "f9e36f9660d1a044e71c3b6603e60568977791",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\3e\\f9e36f9660d1a044e71c3b6603e60568977791",
+                  "CreateTimeFile": "30.07.2018 18:23:22",
+                  "SubDirectry": null
+                }
+              ]
             },
             {
-              "NameFile": "TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs",
-              "CreateTimeFile": "30.07.2018 11:21:05",
-              "SubDirectry": null
+              "NameFile": "49",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\49",
+              "CreateTimeFile": "30.07.2018 18:23:23",
+              "SubDirectry": [
+                {
+                  "NameFile": "97d4e34baf1d2d79c8744af80f49f04ca1ad97",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\49\\97d4e34baf1d2d79c8744af80f49f04ca1ad97",
+                  "CreateTimeFile": "30.07.2018 18:23:23",
+                  "SubDirectry": null
+                }
+              ]
             },
             {
-              "NameFile": "TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs",
-              "CreateTimeFile": "30.07.2018 11:21:05",
-              "SubDirectry": null
+              "NameFile": "5f",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\5f",
+              "CreateTimeFile": "30.07.2018 18:23:22",
+              "SubDirectry": [
+                {
+                  "NameFile": "1cef440408ae878ffd0cb1af33327734c76a36",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\5f\\1cef440408ae878ffd0cb1af33327734c76a36",
+                  "CreateTimeFile": "30.07.2018 18:23:22",
+                  "SubDirectry": null
+                }
+              ]
             },
             {
-              "NameFile": "TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs",
-              "CreateTimeFile": "30.07.2018 11:21:05",
-              "SubDirectry": null
+              "NameFile": "73",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\73",
+              "CreateTimeFile": "30.07.2018 18:23:22",
+              "SubDirectry": [
+                {
+                  "NameFile": "1f6de6c291e303814b02808f34140fe560e8e4",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\73\\1f6de6c291e303814b02808f34140fe560e8e4",
+                  "CreateTimeFile": "30.07.2018 18:23:22",
+                  "SubDirectry": null
+                }
+              ]
             },
             {
-              "NameFile": "TempPE",
-              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\TempPE",
-              "CreateTimeFile": "30.07.2018 11:21:00",
+              "NameFile": "91",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\91",
+              "CreateTimeFile": "30.07.2018 18:23:14",
+              "SubDirectry": [
+                {
+                  "NameFile": "e3470e1645e6e8d0de6fe9f6b242f366e9a393",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\91\\e3470e1645e6e8d0de6fe9f6b242f366e9a393",
+                  "CreateTimeFile": "30.07.2018 18:23:14",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "92",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\92",
+              "CreateTimeFile": "30.07.2018 18:23:23",
+              "SubDirectry": [
+                {
+                  "NameFile": "6035b48798c9c684eb7bb50cfb6ba225c13cdb",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\92\\6035b48798c9c684eb7bb50cfb6ba225c13cdb",
+                  "CreateTimeFile": "30.07.2018 18:23:23",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "a6",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\a6",
+              "CreateTimeFile": "30.07.2018 18:23:22",
+              "SubDirectry": [
+                {
+                  "NameFile": "64808b76bcb5230894f76810bf65e9d9f3011d",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\a6\\64808b76bcb5230894f76810bf65e9d9f3011d",
+                  "CreateTimeFile": "30.07.2018 18:23:22",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "b9",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\b9",
+              "CreateTimeFile": "30.07.2018 18:23:22",
+              "SubDirectry": [
+                {
+                  "NameFile": "6d9202d4fc523392053e6047696683bfa3163e",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\b9\\6d9202d4fc523392053e6047696683bfa3163e",
+                  "CreateTimeFile": "30.07.2018 18:23:22",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "c8",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\c8",
+              "CreateTimeFile": "30.07.2018 18:23:23",
+              "SubDirectry": [
+                {
+                  "NameFile": "73a1b5360981b02af8153eb00405ea039e2a97",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\c8\\73a1b5360981b02af8153eb00405ea039e2a97",
+                  "CreateTimeFile": "30.07.2018 18:23:23",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "ca",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\ca",
+              "CreateTimeFile": "30.07.2018 18:23:14",
+              "SubDirectry": [
+                {
+                  "NameFile": "838202b12bc318bd9ae3583120c5bcca37c303",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\ca\\838202b12bc318bd9ae3583120c5bcca37c303",
+                  "CreateTimeFile": "30.07.2018 18:23:14",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "ce",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\ce",
+              "CreateTimeFile": "30.07.2018 18:23:22",
+              "SubDirectry": [
+                {
+                  "NameFile": "ec0d7833fb77056873d8328cf196fa15d02806",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\ce\\ec0d7833fb77056873d8328cf196fa15d02806",
+                  "CreateTimeFile": "30.07.2018 18:23:22",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "cf",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\cf",
+              "CreateTimeFile": "30.07.2018 18:23:23",
+              "SubDirectry": [
+                {
+                  "NameFile": "ece2c7f46abafdc4d783068fe2ecbcace819f2",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\cf\\ece2c7f46abafdc4d783068fe2ecbcace819f2",
+                  "CreateTimeFile": "30.07.2018 18:23:23",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "d1",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\d1",
+              "CreateTimeFile": "30.07.2018 18:23:22",
+              "SubDirectry": [
+                {
+                  "NameFile": "c0182e320c478adf8740e3ba944388ddc922a9",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\d1\\c0182e320c478adf8740e3ba944388ddc922a9",
+                  "CreateTimeFile": "30.07.2018 18:23:22",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "f6",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\f6",
+              "CreateTimeFile": "30.07.2018 18:23:22",
+              "SubDirectry": [
+                {
+                  "NameFile": "e72e320ed4f65c1ffd505fa20608033f971520",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\f6\\e72e320ed4f65c1ffd505fa20608033f971520",
+                  "CreateTimeFile": "30.07.2018 18:23:22",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "fb",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\fb",
+              "CreateTimeFile": "30.07.2018 18:23:23",
+              "SubDirectry": [
+                {
+                  "NameFile": "b04b7625ced9d29840d70d141ce81f6cb5af35",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\fb\\b04b7625ced9d29840d70d141ce81f6cb5af35",
+                  "CreateTimeFile": "30.07.2018 18:23:23",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "info",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\info",
+              "CreateTimeFile": "30.07.2018 18:23:12",
+              "SubDirectry": []
+            },
+            {
+              "NameFile": "pack",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\objects\\pack",
+              "CreateTimeFile": "30.07.2018 18:23:12",
+              "SubDirectry": []
+            }
+          ]
+        },
+        {
+          "NameFile": "refs",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\refs",
+          "CreateTimeFile": "30.07.2018 18:23:12",
+          "SubDirectry": [
+            {
+              "NameFile": "heads",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\refs\\heads",
+              "CreateTimeFile": "30.07.2018 18:23:12",
+              "SubDirectry": [
+                {
+                  "NameFile": "master",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\refs\\heads\\master",
+                  "CreateTimeFile": "30.07.2018 18:23:14",
+                  "SubDirectry": null
+                }
+              ]
+            },
+            {
+              "NameFile": "remotes",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\refs\\remotes",
+              "CreateTimeFile": "30.07.2018 18:26:01",
+              "SubDirectry": [
+                {
+                  "NameFile": "origin",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\refs\\remotes\\origin",
+                  "CreateTimeFile": "30.07.2018 18:26:01",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "master",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\refs\\remotes\\origin\\master",
+                      "CreateTimeFile": "30.07.2018 18:26:01",
+                      "SubDirectry": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "NameFile": "tags",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.git\\refs\\tags",
+              "CreateTimeFile": "30.07.2018 18:23:12",
               "SubDirectry": []
             }
           ]
@@ -189,28 +529,623 @@
       ]
     },
     {
-      "NameFile": "Properties",
-      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\Properties",
-      "CreateTimeFile": "30.07.2018 11:20:46",
+      "NameFile": ".vs",
+      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs",
+      "CreateTimeFile": "30.07.2018 11:20:58",
       "SubDirectry": [
         {
-          "NameFile": "AssemblyInfo.cs",
-          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\Properties\\AssemblyInfo.cs",
-          "CreateTimeFile": "30.07.2018 11:20:46",
-          "SubDirectry": null
+          "NameFile": "config",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\config",
+          "CreateTimeFile": "30.07.2018 15:42:24",
+          "SubDirectry": [
+            {
+              "NameFile": "applicationhost.config",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\config\\applicationhost.config",
+              "CreateTimeFile": "30.07.2018 15:42:25",
+              "SubDirectry": null
+            }
+          ]
+        },
+        {
+          "NameFile": "FolderInJson",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\FolderInJson",
+          "CreateTimeFile": "30.07.2018 11:20:58",
+          "SubDirectry": [
+            {
+              "NameFile": "v15",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\FolderInJson\\v15",
+              "CreateTimeFile": "30.07.2018 11:20:58",
+              "SubDirectry": [
+                {
+                  "NameFile": ".suo",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\FolderInJson\\v15\\.suo",
+                  "CreateTimeFile": "30.07.2018 11:21:19",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "Server",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\FolderInJson\\v15\\Server",
+                  "CreateTimeFile": "30.07.2018 11:22:26",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "sqlite3",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\FolderInJson\\v15\\Server\\sqlite3",
+                      "CreateTimeFile": "30.07.2018 11:22:26",
+                      "SubDirectry": [
+                        {
+                          "NameFile": "db.lock",
+                          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\FolderInJson\\v15\\Server\\sqlite3\\db.lock",
+                          "CreateTimeFile": "30.07.2018 11:22:26",
+                          "SubDirectry": null
+                        },
+                        {
+                          "NameFile": "storage.ide",
+                          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\FolderInJson\\v15\\Server\\sqlite3\\storage.ide",
+                          "CreateTimeFile": "30.07.2018 11:22:26",
+                          "SubDirectry": null
+                        },
+                        {
+                          "NameFile": "storage.ide-shm",
+                          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\FolderInJson\\v15\\Server\\sqlite3\\storage.ide-shm",
+                          "CreateTimeFile": "30.07.2018 11:22:26",
+                          "SubDirectry": null
+                        },
+                        {
+                          "NameFile": "storage.ide-wal",
+                          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\.vs\\FolderInJson\\v15\\Server\\sqlite3\\storage.ide-wal",
+                          "CreateTimeFile": "30.07.2018 11:22:26",
+                          "SubDirectry": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "NameFile": "Write",
-      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\Write",
-      "CreateTimeFile": "30.07.2018 16:42:24",
+      "NameFile": "FolderInJson",
+      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson",
+      "CreateTimeFile": "30.07.2018 11:20:40",
       "SubDirectry": [
         {
-          "NameFile": "FolderJsonDirictory.json",
-          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\Write\\FolderJsonDirictory.json",
-          "CreateTimeFile": "30.07.2018 16:48:39",
+          "NameFile": "App.config",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\App.config",
+          "CreateTimeFile": "30.07.2018 11:20:56",
           "SubDirectry": null
+        },
+        {
+          "NameFile": "FolderInJson.csproj",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\FolderInJson.csproj",
+          "CreateTimeFile": "30.07.2018 11:20:56",
+          "SubDirectry": null
+        },
+        {
+          "NameFile": "packages.config",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\packages.config",
+          "CreateTimeFile": "30.07.2018 15:34:33",
+          "SubDirectry": null
+        },
+        {
+          "NameFile": "Program.cs",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\Program.cs",
+          "CreateTimeFile": "30.07.2018 11:20:56",
+          "SubDirectry": null
+        },
+        {
+          "NameFile": "bin",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin",
+          "CreateTimeFile": "30.07.2018 16:47:34",
+          "SubDirectry": [
+            {
+              "NameFile": "Debug",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug",
+              "CreateTimeFile": "30.07.2018 16:47:34",
+              "SubDirectry": [
+                {
+                  "NameFile": "FolderInJson.exe",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\FolderInJson.exe",
+                  "CreateTimeFile": "30.07.2018 16:47:48",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "FolderInJson.exe.config",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\FolderInJson.exe.config",
+                  "CreateTimeFile": "30.07.2018 16:47:48",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "FolderInJson.pdb",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\FolderInJson.pdb",
+                  "CreateTimeFile": "30.07.2018 16:47:48",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "Json.dll",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\Json.dll",
+                  "CreateTimeFile": "30.07.2018 16:47:48",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "Json.pdb",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\Json.pdb",
+                  "CreateTimeFile": "30.07.2018 16:47:48",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "Newtonsoft.Json.dll",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\Newtonsoft.Json.dll",
+                  "CreateTimeFile": "30.07.2018 16:47:48",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "Newtonsoft.Json.xml",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\bin\\Debug\\Newtonsoft.Json.xml",
+                  "CreateTimeFile": "30.07.2018 16:47:48",
+                  "SubDirectry": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "NameFile": "model",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\model",
+          "CreateTimeFile": "30.07.2018 11:23:54",
+          "SubDirectry": [
+            {
+              "NameFile": "ManageJsonFolder.cs",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\model\\ManageJsonFolder.cs",
+              "CreateTimeFile": "30.07.2018 11:26:15",
+              "SubDirectry": null
+            },
+            {
+              "NameFile": "ModelFolder.cs",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\model\\ModelFolder.cs",
+              "CreateTimeFile": "30.07.2018 11:24:38",
+              "SubDirectry": null
+            },
+            {
+              "NameFile": "Parser.cs",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\model\\Parser.cs",
+              "CreateTimeFile": "30.07.2018 11:34:21",
+              "SubDirectry": null
+            }
+          ]
+        },
+        {
+          "NameFile": "obj",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj",
+          "CreateTimeFile": "30.07.2018 11:20:57",
+          "SubDirectry": [
+            {
+              "NameFile": "Debug",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug",
+              "CreateTimeFile": "30.07.2018 11:20:57",
+              "SubDirectry": [
+                {
+                  "NameFile": "DesignTimeResolveAssemblyReferencesInput.cache",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\DesignTimeResolveAssemblyReferencesInput.cache",
+                  "CreateTimeFile": "30.07.2018 11:21:10",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "FolderInJson.csproj.CopyComplete",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.csproj.CopyComplete",
+                  "CreateTimeFile": "30.07.2018 15:36:18",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "FolderInJson.csproj.CoreCompileInputs.cache",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.csproj.CoreCompileInputs.cache",
+                  "CreateTimeFile": "30.07.2018 11:21:05",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "FolderInJson.csproj.FileListAbsolute.txt",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.csproj.FileListAbsolute.txt",
+                  "CreateTimeFile": "30.07.2018 11:55:32",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "FolderInJson.csprojAssemblyReference.cache",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.csprojAssemblyReference.cache",
+                  "CreateTimeFile": "30.07.2018 14:22:51",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "FolderInJson.exe",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.exe",
+                  "CreateTimeFile": "30.07.2018 11:55:30",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "FolderInJson.pdb",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\FolderInJson.pdb",
+                  "CreateTimeFile": "30.07.2018 11:55:31",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs",
+                  "CreateTimeFile": "30.07.2018 11:21:05",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs",
+                  "CreateTimeFile": "30.07.2018 11:21:05",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs",
+                  "CreateTimeFile": "30.07.2018 11:21:05",
+                  "SubDirectry": null
+                },
+                {
+                  "NameFile": "TempPE",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\obj\\Debug\\TempPE",
+                  "CreateTimeFile": "30.07.2018 11:21:00",
+                  "SubDirectry": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "NameFile": "Properties",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\Properties",
+          "CreateTimeFile": "30.07.2018 11:20:46",
+          "SubDirectry": [
+            {
+              "NameFile": "AssemblyInfo.cs",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\Properties\\AssemblyInfo.cs",
+              "CreateTimeFile": "30.07.2018 11:20:46",
+              "SubDirectry": null
+            }
+          ]
+        },
+        {
+          "NameFile": "Write",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\Write",
+          "CreateTimeFile": "30.07.2018 16:42:24",
+          "SubDirectry": [
+            {
+              "NameFile": "FolderJsonDirictory.json",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\FolderInJson\\Write\\FolderJsonDirictory.json",
+              "CreateTimeFile": "30.07.2018 16:48:39",
+              "SubDirectry": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "NameFile": "packages",
+      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages",
+      "CreateTimeFile": "30.07.2018 15:34:30",
+      "SubDirectry": [
+        {
+          "NameFile": "JSON.1.0.1",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1",
+          "CreateTimeFile": "30.07.2018 15:34:30",
+          "SubDirectry": [
+            {
+              "NameFile": "JSON.1.0.1.nupkg",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\JSON.1.0.1.nupkg",
+              "CreateTimeFile": "30.07.2018 15:34:31",
+              "SubDirectry": null
+            },
+            {
+              "NameFile": "LICENSE",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\LICENSE",
+              "CreateTimeFile": "30.07.2018 15:34:30",
+              "SubDirectry": null
+            },
+            {
+              "NameFile": "lib",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib",
+              "CreateTimeFile": "30.07.2018 15:34:30",
+              "SubDirectry": [
+                {
+                  "NameFile": "net35",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\net35",
+                  "CreateTimeFile": "30.07.2018 15:34:30",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Json.Net35.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\net35\\Json.Net35.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:30",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Json.Net35.pdb",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\net35\\Json.Net35.pdb",
+                      "CreateTimeFile": "30.07.2018 15:34:30",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "net40",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\net40",
+                  "CreateTimeFile": "30.07.2018 15:34:30",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Json.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\net40\\Json.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:30",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Json.pdb",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\net40\\Json.pdb",
+                      "CreateTimeFile": "30.07.2018 15:34:30",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "sl3",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\sl3",
+                  "CreateTimeFile": "30.07.2018 15:34:30",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Json.Silverlight.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\sl3\\Json.Silverlight.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:30",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Json.Silverlight.pdb",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\sl3\\Json.Silverlight.pdb",
+                      "CreateTimeFile": "30.07.2018 15:34:31",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "sl4",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\sl4",
+                  "CreateTimeFile": "30.07.2018 15:34:31",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Json.Silverlight4.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\sl4\\Json.Silverlight4.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:31",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Json.Silverlight4.pdb",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\sl4\\Json.Silverlight4.pdb",
+                      "CreateTimeFile": "30.07.2018 15:34:31",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "wp",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\wp",
+                  "CreateTimeFile": "30.07.2018 15:34:31",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Json.WindowsPhone.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\wp\\Json.WindowsPhone.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:31",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Json.WindowsPhone.pdb",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\JSON.1.0.1\\lib\\wp\\Json.WindowsPhone.pdb",
+                      "CreateTimeFile": "30.07.2018 15:34:31",
+                      "SubDirectry": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "NameFile": "Newtonsoft.Json.11.0.2",
+          "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2",
+          "CreateTimeFile": "30.07.2018 15:34:42",
+          "SubDirectry": [
+            {
+              "NameFile": "LICENSE.md",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\LICENSE.md",
+              "CreateTimeFile": "30.07.2018 15:34:42",
+              "SubDirectry": null
+            },
+            {
+              "NameFile": "Newtonsoft.Json.11.0.2.nupkg",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\Newtonsoft.Json.11.0.2.nupkg",
+              "CreateTimeFile": "30.07.2018 15:34:48",
+              "SubDirectry": null
+            },
+            {
+              "NameFile": "lib",
+              "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib",
+              "CreateTimeFile": "30.07.2018 15:34:42",
+              "SubDirectry": [
+                {
+                  "NameFile": "net20",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net20",
+                  "CreateTimeFile": "30.07.2018 15:34:42",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Newtonsoft.Json.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net20\\Newtonsoft.Json.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:42",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Newtonsoft.Json.xml",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net20\\Newtonsoft.Json.xml",
+                      "CreateTimeFile": "30.07.2018 15:34:43",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "net35",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net35",
+                  "CreateTimeFile": "30.07.2018 15:34:43",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Newtonsoft.Json.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net35\\Newtonsoft.Json.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:43",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Newtonsoft.Json.xml",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net35\\Newtonsoft.Json.xml",
+                      "CreateTimeFile": "30.07.2018 15:34:44",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "net40",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net40",
+                  "CreateTimeFile": "30.07.2018 15:34:44",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Newtonsoft.Json.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net40\\Newtonsoft.Json.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:44",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Newtonsoft.Json.xml",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net40\\Newtonsoft.Json.xml",
+                      "CreateTimeFile": "30.07.2018 15:34:44",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "net45",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net45",
+                  "CreateTimeFile": "30.07.2018 15:34:44",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Newtonsoft.Json.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net45\\Newtonsoft.Json.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:45",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Newtonsoft.Json.xml",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\net45\\Newtonsoft.Json.xml",
+                      "CreateTimeFile": "30.07.2018 15:34:45",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "netstandard1.0",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\netstandard1.0",
+                  "CreateTimeFile": "30.07.2018 15:34:45",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Newtonsoft.Json.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\netstandard1.0\\Newtonsoft.Json.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:45",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Newtonsoft.Json.xml",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\netstandard1.0\\Newtonsoft.Json.xml",
+                      "CreateTimeFile": "30.07.2018 15:34:46",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "netstandard1.3",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\netstandard1.3",
+                  "CreateTimeFile": "30.07.2018 15:34:46",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Newtonsoft.Json.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\netstandard1.3\\Newtonsoft.Json.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:46",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Newtonsoft.Json.xml",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\netstandard1.3\\Newtonsoft.Json.xml",
+                      "CreateTimeFile": "30.07.2018 15:34:46",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "netstandard2.0",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\netstandard2.0",
+                  "CreateTimeFile": "30.07.2018 15:34:47",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Newtonsoft.Json.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\netstandard2.0\\Newtonsoft.Json.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:47",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Newtonsoft.Json.xml",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\netstandard2.0\\Newtonsoft.Json.xml",
+                      "CreateTimeFile": "30.07.2018 15:34:47",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "portable-net40+sl5+win8+wp8+wpa81",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\portable-net40+sl5+win8+wp8+wpa81",
+                  "CreateTimeFile": "30.07.2018 15:34:47",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Newtonsoft.Json.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\portable-net40+sl5+win8+wp8+wpa81\\Newtonsoft.Json.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:47",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Newtonsoft.Json.xml",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\portable-net40+sl5+win8+wp8+wpa81\\Newtonsoft.Json.xml",
+                      "CreateTimeFile": "30.07.2018 15:34:47",
+                      "SubDirectry": null
+                    }
+                  ]
+                },
+                {
+                  "NameFile": "portable-net45+win8+wp8+wpa81",
+                  "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\portable-net45+win8+wp8+wpa81",
+                  "CreateTimeFile": "30.07.2018 15:34:47",
+                  "SubDirectry": [
+                    {
+                      "NameFile": "Newtonsoft.Json.dll",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\portable-net45+win8+wp8+wpa81\\Newtonsoft.Json.dll",
+                      "CreateTimeFile": "30.07.2018 15:34:48",
+                      "SubDirectry": null
+                    },
+                    {
+                      "NameFile": "Newtonsoft.Json.xml",
+                      "Path": "C\\Users\\Roma_Novel\\source\\repos\\FolderInJson\\packages\\Newtonsoft.Json.11.0.2\\lib\\portable-net45+win8+wp8+wpa81\\Newtonsoft.Json.xml",
+                      "CreateTimeFile": "30.07.2018 15:34:48",
+                      "SubDirectry": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
